@@ -1,4 +1,4 @@
-// Task 2
+// Task 2 - https://www.codewars.com/kata/training-js-number-13-number-object-and-its-properties/train/javascript?fbclid=IwAR0rhqoGAU3xiPplaidh1RgWmx1erPaztOjaYobMTNobjnt3DvACWdfG_Go
 
 function whatNumberIsIt(n) {
   switch(n) {
